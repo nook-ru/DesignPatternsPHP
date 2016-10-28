@@ -1,5 +1,5 @@
 `Flyweight`__
-==========
+=============
 
 Purpose
 -------
@@ -12,7 +12,7 @@ UML Diagram
 -----------
 
 .. image:: uml/uml.png
-   :alt: Alt Facade UML Diagram
+   :alt: Alt Flyweight UML Diagram
    :align: center
 
 Code
